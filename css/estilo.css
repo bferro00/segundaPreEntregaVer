@@ -241,3 +241,9 @@ iframe{
         text-align: center;
     }
 }
+
+@media (max-width: 768px){
+.contenedorAccesorios {
+    grid-template-columns: 1fr;
+}
+}
